@@ -10,3 +10,10 @@ I'm using Python, PyOpenGL, and an assortment of python libraries to run this
 code. Unfortunately, I forgot the full list! As this project develops more,
 this will likely become more fleshed out. For now, it's just my Game Over
 placeholder for PyOpenGL.
+
+Licensing
+
+This software is licensed under the terms of GNU GPL v3,
+<http://www.gnu.org/licenses/gpl.html>
+
+This is just a small fun project for game development practice.
